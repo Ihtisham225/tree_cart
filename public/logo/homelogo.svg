@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="640"
+   height="480"
+   version="1.1"
+   id="svg82"
+   sodipodi:docname="method-draw-image.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata88">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs86" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     id="namedview84"
+     showgrid="false"
+     inkscape:zoom="1.3479167"
+     inkscape:cx="320"
+     inkscape:cy="240"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg82" />
+  <g
+     id="g53">
+    <title
+       id="title50">background</title>
+    <rect
+       fill="none"
+       id="canvas_background"
+       height="482"
+       width="642"
+       y="-1"
+       x="-1" />
+  </g>
+  <g
+     id="g80"
+     transform="matrix(0.37497569,0,0,0.41100577,1.4837713,-0.90085658)">
+    <title
+       id="title55">Layer 1</title>
+    <g
+       id="svg_1">
+      <g
+         id="svg_2">
+        <g
+           id="svg_3">
+          <path
+             id="svg_4"
+             d="m 143.673,350.322 c -25.969,0 -47.02,21.052 -47.02,47.02 0,25.969 21.052,47.02 47.02,47.02 25.969,0 47.02,-21.052 47.02,-47.02 10e-4,-25.968 -21.051,-47.02 -47.02,-47.02 z m 0,73.143 c -14.427,0 -26.122,-11.695 -26.122,-26.122 0,-14.427 11.695,-26.122 26.122,-26.122 14.427,0 26.122,11.695 26.122,26.122 0.001,14.427 -11.695,26.122 -26.122,26.122 z" />
+          <path
+             id="svg_5"
+             d="m 342.204,350.322 c -25.969,0 -47.02,21.052 -47.02,47.02 0,25.969 21.052,47.02 47.02,47.02 25.968,0 47.02,-21.052 47.02,-47.02 0,-25.968 -21.051,-47.02 -47.02,-47.02 z m 0,73.143 c -14.427,0 -26.122,-11.695 -26.122,-26.122 0,-14.427 11.695,-26.122 26.122,-26.122 14.427,0 26.122,11.695 26.122,26.122 10e-4,14.427 -11.695,26.122 -26.122,26.122 z" />
+          <path
+             id="svg_6"
+             d="m 448.261,76.037 c -2.176,-2.377 -5.153,-3.865 -8.359,-4.18 L 99.788,67.155 90.384,38.42 C 83.759,19.211 65.771,6.243 45.453,6.028 H 10.449 C 4.678,6.028 0,10.706 0,16.477 0,22.248 4.678,26.926 10.449,26.926 h 35.004 c 11.361,0.251 21.365,7.546 25.078,18.286 l 66.351,200.098 -5.224,12.016 c -5.827,15.026 -4.077,31.938 4.702,45.453 8.695,13.274 23.323,21.466 39.184,21.943 h 203.233 c 5.771,0 10.449,-4.678 10.449,-10.449 0,-5.771 -4.678,-10.449 -10.449,-10.449 H 175.543 c -8.957,-0.224 -17.202,-4.936 -21.943,-12.539 -4.688,-7.51 -5.651,-16.762 -2.612,-25.078 l 4.18,-9.404 219.951,-22.988 c 24.16,-2.661 44.034,-20.233 49.633,-43.886 L 449.83,84.917 c 1.13,-3.024 0.53,-6.425 -1.569,-8.88 z m -43.885,109.191 c -3.392,15.226 -16.319,26.457 -31.869,27.69 L 155.168,235.383 106.58,88.053 426.841,92.755 Z" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="svg_7" />
+    <g
+       id="svg_8" />
+    <g
+       id="svg_9" />
+    <g
+       id="svg_10" />
+    <g
+       id="svg_11" />
+    <g
+       id="svg_12" />
+    <g
+       id="svg_13" />
+    <g
+       id="svg_14" />
+    <g
+       id="svg_15" />
+    <g
+       id="svg_16" />
+    <g
+       id="svg_17" />
+    <g
+       id="svg_18" />
+    <g
+       id="svg_19" />
+    <g
+       id="svg_20" />
+    <g
+       id="svg_21" />
+    <text
+       stroke="#000000"
+       transform="matrix(13.8,0,0,3.2184236,-5484.8001,-489.5437)"
+       xml:space="preserve"
+       text-anchor="start"
+       font-family="Helvetica, Arial, sans-serif"
+       font-size="24px"
+       id="svg_22"
+       y="245.45312"
+       x="428.5"
+       stroke-width="0"
+       fill="#000000" />
+    <text
+       font-weight="bold"
+       stroke="#000000"
+       transform="matrix(2.2863428,0,0,4.569147,-591.67886,-1075.3513)"
+       xml:space="preserve"
+       text-anchor="start"
+       font-family="Oswald, sans-serif"
+       font-size="24px"
+       id="svg_23"
+       y="325.12408"
+       x="431.12543"
+       stroke-opacity="null"
+       stroke-width="0"
+       fill="#444444">Tree Cart</text>
+  </g>
+</svg>
